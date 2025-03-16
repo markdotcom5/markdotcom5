@@ -11,5 +11,6 @@ I believe space exploration should be accessible to everyone with the passion to
 - HTML/CSS/JavaScript
 - AI integration (OpenAI)
 - MongoDB
-## Get In Touch
+## Get In Touch  WhatsApp # 734 678 9385 or mark@sharedstars.com 
 If you're passionate about space and want to be part of making space training accessible globally, I'd love to connect. My journey as a founder has taken me from Wall Street to multiple tech startups, and now to the final frontier!
+https://www.linkedin.com/in/markdotcom/
