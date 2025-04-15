@@ -37,9 +37,6 @@ I believe space exploration should be accessible to everyone with the passion to
 - **Database:** MongoDB
 - **Deployment:** Vercel
 
-## Installation and Setup
-
-```bash
 # Clone the repository
 git clone https://github.com/markdotcom5/SharedStarsFinal.git
 
@@ -49,16 +46,22 @@ npm install
 
 # Set up environment variables
 cp .env.example .env
-# Edit .env with your API keys
+# Then edit .env with your real API keys (OpenAI, MongoDB, Stripe, etc.)
 
 # Start the development server
 npm run dev
+
 For quick questions, reach out via email at info@sharedstars.com or through our GitHub DiscussionsIf you're passionate about space and want to be part of making space training accessible globally, I'd love to connect. My journey as a founder has taken me from Wall Street to multiple tech startups, and now to the final frontier!
 https://www.linkedin.com/in/markdotcom/
 
-├── /public          # Static assets
-├── /models          # Data models
-├── /routes          # API routes
-├── /services        # Business logic
-├── /views           # Frontend views
-└── /ai              # AI integration components
+├── /public          # Static assets (images, JS, CSS)
+├── /models          # Mongoose data models
+├── /routes          # Express API routes (auth, stella, users)
+├── /services        # Business logic and STELLA core engines
+├── /views           # Frontend EJS views and UI templates
+├── /ai              # AI integration (STELLA_AI.js, personality, vector search)
+
+📫 Email: info@sharedstars.com
+🌐 Website: www.sharedstars.com
+💼 LinkedIn: linkedin.com/in/markdotcom
+🛰️ Ask a question: GitHub Discussions (optional)
